@@ -5,7 +5,7 @@ base = pyautogui.locateOnScreen('base.png')
 x = base[0]
 y = base[1]
 ispaused = False
-starting_time = 1 #system time at which the search should start
+starting_time = 1 #system time at which the search is started, this value can be freely changed
 
 while(True):
 	pyautogui.moveTo(x+25, y+580) #unpause
