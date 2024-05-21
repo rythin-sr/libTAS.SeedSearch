@@ -10,7 +10,7 @@ A simple python script to aid in searching for optimal initial RNG seeds.
 2. Under Movie enable "Don't enforce movie settings"
 3. Drag-resize the libTAS window to the smallest it can be
 4. Make sure to position the libTAS window in a spot where the game will not overlap it when it launches, the pause button must remain visible
-4.5. (Optional) Run test.py and make sure the cursor ends up in the correct positions.
-5. Adjust the starting time in seedsearch.py if necessary. It should match the initial system time in libTAS (usually 1)
-6. Run the script. This is the most time consuming part, I find it best to just leave it on overnight or go do something else while it runs through the seeds.
-7. When finished, either tab into the terminal and Ctrl+C or move your mouse cursor to the top left of the screen to interrupt it. Screenshots from the end of each movie will be available in the output folder.
+5. (Optional) Run test.py and make sure the cursor ends up in the correct positions.
+6. Adjust the starting time in seedsearch.py if necessary. It should match the initial system time in libTAS (usually 1)
+7. Run the script. This is the most time consuming part, I find it best to just leave it on overnight or go do something else while it runs through the seeds.
+8. When finished, either tab into the terminal and Ctrl+C or move your mouse cursor to the top left of the screen to interrupt it. Screenshots from the end of each movie will be available in the output folder.
